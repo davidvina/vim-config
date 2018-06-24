@@ -35,6 +35,8 @@ Plugin 'tpope/vim-fugitive'
 
 " CUSTOM PLUGINS
 Plugin 'scrooloose/nerdtree'
+Plugin 'mattn/emmet-vim'
+Plugin 'othree/html5.vim'
 
 
 
@@ -79,5 +81,6 @@ set mouse=a
 
 set guifont=Fira\ Code:h12s
 
-
+"nerdTree
+NERDTree
 
